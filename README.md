@@ -1,6 +1,6 @@
 # QBIT
 
- mini QBit (mini quantum computer - diy "do it yourself").
+ Mini QBit (mini quantum computer - diy "do it yourself").
 
 Release 2021
 
