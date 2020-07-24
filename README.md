@@ -30,3 +30,5 @@ Q-API integration of commercial quantum computers.
 
 
 In development and functional tests....
+
+More information: www.openqbit.com
