@@ -2,7 +2,7 @@
 
  Mini QBit (mini quantum computer - diy "do it yourself").
 
-Release 2022
+Coming Soon - Release 2023
 
 HARDWARE & SOFTWARE (Q-BLOCKLY)
 
